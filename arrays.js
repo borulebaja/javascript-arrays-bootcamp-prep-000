@@ -1,1 +1,1 @@
-var chocolateBars = ["snickers",]
+var chocolateBars = ["snickers", ""]
